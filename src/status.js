@@ -4,8 +4,8 @@ function setStatus(client) {
   client.user.setPresence({
     activities: [
       {
-        name: 'NFL🏈',
-        type: ActivityType.Watching,
+        name: 'Fortnite',
+        type: ActivityType.Playing,
         url: 'https://twitch.tv/cou',
         timestamps: {
           start: Date.now(),
