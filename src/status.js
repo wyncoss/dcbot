@@ -6,7 +6,7 @@ function setStatus(client) {
       {
         name: 'las manqueadas de Parasitus en Fortnite',
         type: ActivityType.Streaming,
-        url: 'https://twitch.tv/cou',
+        url: 'https://twitch.tv/parasitus',
         timestamps: {
           start: Date.now(),
         },
