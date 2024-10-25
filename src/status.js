@@ -4,7 +4,7 @@ function setStatus(client) {
   client.user.setPresence({
     activities: [
       {
-        name: 'Fortnite',
+        name: 'las manqueadas de Parasitus en Fortnite',
         type: ActivityType.Streaming,
         url: 'https://twitch.tv/cou',
         timestamps: {
