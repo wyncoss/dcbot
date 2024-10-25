@@ -5,7 +5,7 @@ function setStatus(client) {
     activities: [
       {
         name: 'Fortnite',
-        type: ActivityType.Playing,
+        type: ActivityType.Streaming,
         url: 'https://twitch.tv/cou',
         timestamps: {
           start: Date.now(),
