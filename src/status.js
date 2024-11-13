@@ -4,9 +4,9 @@ function setStatus(client) {
   client.user.setPresence({
     activities: [
       {
-        name: 'las manqueadas de Parasitus en Fortnite',
-        type: ActivityType.Streaming,
-        url: 'https://twitch.tv/parasitus',
+        name: 'Roblox',
+        type: ActivityType.Playing,
+        url: 'https://twitch.tv/',
         timestamps: {
           start: Date.now(),
         },
