@@ -4,8 +4,8 @@ function setStatus(client) {
   client.user.setPresence({
     activities: [
       {
-        name: 'Roblox',
-        type: ActivityType.Playing,
+        name: 'The melodic blue',
+        type: ActivityType.Listening,
         url: 'https://twitch.tv/',
         timestamps: {
           start: Date.now(),
