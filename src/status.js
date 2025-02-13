@@ -4,8 +4,8 @@ function setStatus(client) {
   client.user.setPresence({
     activities: [
       {
-        name: 'Miauuuu',
-        type: ActivityType.Custom,
+        name: 'The melodic blue',
+        type: ActivityType.Listening,
         url: 'https://twitch.tv/',
         timestamps: {
           start: Date.now(),
